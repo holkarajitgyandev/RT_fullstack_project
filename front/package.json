@@ -2,7 +2,7 @@
   "name": "my-rt-project",
   "private": true,
   "version": "0.0.0",
-  "proxy":"https://rt-backend-delta.vercel.app",
+  "proxy":"https://rt-backend-delta.vercel.app/api",
   "type": "module",
   "scripts": {
     "dev": "vite",
